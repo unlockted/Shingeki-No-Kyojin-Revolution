@@ -1,3 +1,8 @@
-print(game.Players.LocalPlayer.Name)
+if game.PlaceId == 13379208636 then
+  print(game.Players.LocalPlayer.Name)
+end
 
-local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
+
+
+
+
